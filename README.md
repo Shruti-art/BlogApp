@@ -1,5 +1,5 @@
 # React + Vite+ Appwrite
-Project Link: https://blog-app-ochre-pi.vercel.app/
+Project Link: blog-app-ochre-pi.vercel.app
 
 Developed a blog app using Vite and React.js with Appwrite for user data management.
 Implemented user authentication, signup, and login features.
