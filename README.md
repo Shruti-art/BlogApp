@@ -1,5 +1,5 @@
 # React + Vite+ Appwrite
-Project Link:  blog-app-git-main-shruti-arts-projects.vercel.app
+Project Link:  https://blog-app-ochre-pi.vercel.app/
 
 
 Developed a blog app using Vite and React.js with Appwrite for user data management.
